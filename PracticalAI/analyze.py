@@ -3,8 +3,8 @@ from msrest.authentication import CognitiveServicesCredentials
 from azure.cognitiveservices.vision.computervision.models import OperationStatusCodes
 import time
 
-endpoint = "https://practicalai-1.cognitiveservices.azure.com/"
-key = "ADB0i0LbMX2AOomMqX9LYVX7ETex8jiswgpXoWtsZdmKrH4UZuW2JQQJ99AKACYeBjFXJ3w3AAAFACOGuckT"
+endpoint = ""
+key = ""
 
 credentials = CognitiveServicesCredentials(key)
 
